@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "pmuser1",
+    "fullname": "PM User1",
+    "pwd": "2c9341ca4cf3d87b9e4eb905d6a3ec45",
+    "birthday": "1992-03-29",
+    "age": "27",
+    "education": [["University", "National Universition of Singapore"], ["Junior College", "Anglo-Chinese Junior College"]],
+    "aboutme": [["Sports", "Badminton"], ["Favorite fruit","Mongo"]]
+  },
+  {
+    "id": 3,
+    "username": "pan_meng92@hotmail.com",
+    "fullname": "PM User3",
+    "pwd": "2c9341ca4cf3d87b9e4eb905d6a3ec45",
+    "birthday": "1989-03-16",
+    "age": "30",
+    "education": [["University", "National Universition of Singapore"], ["Junior College", "Anglo-Chinese Junior College"]],
+    "aboutme": [["Sports", "Badminton"], ["Favorite fruit","Mongo"]]
+  },
+  {
+    "id": 2,
+    "username": "pmuser2",
+    "fullname": "PM User2",
+    "pwd": "2c9341ca4cf3d87b9e4eb905d6a3ec45",
+    "birthday": "1988-10-14",
+    "age": "31",
+    "education": [["University", "National Universition of Singapore"], ["Junior College", "Anglo-Chinese Junior College"]],
+    "aboutme": [["Sports", "Badminton"], ["Favorite fruit","Mongo"]]
+  }
+]
